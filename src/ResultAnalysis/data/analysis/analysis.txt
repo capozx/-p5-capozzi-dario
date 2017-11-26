@@ -1,0 +1,8 @@
+In the following lines are shown the input parameter(s) that generate the minimum and maximum value for each available PEP.
+
+[java -jar data/ec/EC1.jar 5.0 data/train/train1.txt data/test/test1.txt, Precision 0.6]
+[java -jar data/ec/EC1.jar 3.0 data/train/train1.txt data/test/test1.txt, Precision 0.8999999999999999]
+
+[java -jar data/ec/EC1.jar 3.0 data/train/train1.txt data/test/test1.txt, Accuracy 0.30000000000000004]
+[java -jar data/ec/EC1.jar 9.0 data/train/train1.txt data/test/test1.txt, Accuracy 0.9]
+
